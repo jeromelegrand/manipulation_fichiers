@@ -20,3 +20,7 @@ strong{
 .navbar-brand{
     height: auto;
 }
+
+textarea.form-control {
+    height: 200px;
+}
